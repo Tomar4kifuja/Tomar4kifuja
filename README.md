@@ -2,3 +2,4 @@
 -Estou estudando também na área de programação em JavaScript
 -Espero aprender bastante no decorrer do tempo e com está plataforma
 
+![](https://media.tenor.com/nUolmeC7l14AAAAi/dog-meme.gif)
